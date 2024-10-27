@@ -25,4 +25,3 @@
 
 P.S. - Делать все вышеописанные действия в Shell консоли
 
-Видео: https://www.youtube.com/watch?v=PWBzLMsXr3A&list=PLuPMumfmOmdgCbhxCLJCa2dJVDX96VxCn&index=17
